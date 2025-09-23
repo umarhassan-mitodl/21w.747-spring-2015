@@ -1,0 +1,42 @@
+leftnav:
+- identifier: c7b5927d-3ae0-fe97-db2d-3359f0509be7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f97971ba-34d6-6075-4089-d485b31b5172
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: f97ff77f-a72f-8b52-c68e-ac590ce34b94
+  name: Workshop Approaches
+  pageRef: /pages/instructor-insights/workshop-approaches
+  parent: f97971ba-34d6-6075-4089-d485b31b5172
+  weight: 30
+- identifier: 96bfa707-1261-c887-41d1-51c19b50bbe2
+  name: Course Iteration
+  pageRef: /pages/instructor-insights/course-iteration
+  parent: f97971ba-34d6-6075-4089-d485b31b5172
+  weight: 40
+- identifier: 16cadfbc-58ff-0e59-c208-3527b7fd6e97
+  name: Calendar and Readings
+  pageRef: /pages/calendar-and-readings
+  weight: 50
+- identifier: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 60
+- identifier: ef506692-ad58-88f3-1f22-09eccaf97caf
+  name: Essays
+  pageRef: /pages/assignments/essays
+  parent: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
+  weight: 70
+- identifier: 5a1e6b2b-d6c6-6637-8d1e-694edc1809e7
+  name: Framing
+  pageRef: /pages/assignments/framing
+  parent: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
+  weight: 80
+- identifier: f823bee4-1371-5bbc-a8ff-ecd3885bc041
+  name: Persuasive Speech
+  pageRef: /pages/assignments/persuasive-speech
+  parent: 912ec8f5-8dbf-31bf-6b1b-b754b51bc1de
+  weight: 90
