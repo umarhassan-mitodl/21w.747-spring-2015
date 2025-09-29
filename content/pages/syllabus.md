@@ -3,6 +3,8 @@ content_type: page
 description: This section lists the course meeting times, a description of the course,
   the objectives for the course, motivation for the course, the texts used in the
   course, and the grading scheme for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -298,14 +300,14 @@ I don't distinguish between excused and unexcused absences
 *   The 6{{< sup "th" >}} absence reduces your course grade 2 additional whole grades (so an A becomes an F)—automatic failure for course regardless of reason—no exceptions.
 *   Don't take this course if you will have to regularly arrive late to class or leave early.
 
-### Consultation at the {{% resource_link "f4895a03-0a45-4870-8e22-0bc25cb4f87e" "Writing & Communication Center" %}} (WCC)
+### Consultation at the [Writing & Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) (WCC)
 
 *   You must consult with the WCC's professionals about your first essay no later than the day before the Mandatory Revision of Essay 1 is due. There is an automatic 1 whole grade penalty off your course grade if you do not (no excuses or exceptions).
 *   You may consult at any stage—the "developing your ideas" stage, before your draft is done in workshop, before submitting your Mandatory Revision.
 
 ### Late Papers
 
-I realize that occasionally situations arise that prevent your finishing an essay on time. You get one "{{% resource_link "ba4b15cf-281d-49c1-9845-0e5ce2adf0df" "Get out of Jail Free\" card" %}}—email me and say you want to use the card and you get an automatic one-week extension for an essay (not for Framing) with no penalty.
+I realize that occasionally situations arise that prevent your finishing an essay on time. You get one "[Get out of Jail Free" card](https://en.wikipedia.org/wiki/Get_Out_of_Jail_Free_card)—email me and say you want to use the card and you get an automatic one-week extension for an essay (not for Framing) with no penalty.
 
 *   Thereafter, a late Mandatory Revision Essay loses the chance for an Optional Revision and an additional 1/3rd of a grade for each day it is late ("late" is defined as not being emailed to me as a Word document before class on the day it is due).
 *   Each missing, incomplete, or incorrect element (Works Cited, Workshop Acknowledgements, WCC Acknowledgement) subtracts 1/3 of a grade from the essay's grade.
@@ -360,4 +362,4 @@ Your essays should always be your new work created specifically for this course.
 
 You show appropriate respect for other writers and thinkers by giving them credit for their ideas, their unusual structures, their phrasings, and their information. More importantly, you enhance your own ethos by showing how your insights and research build on the work of those who wrote before you.
 
-In Western culture, not giving credit is an insult as well as an act of dishonesty. In all academic writing, you must give citations each time you use 1) someone else's ideas, or 2) someone else's words. Although material on the web is free, you did not create it; someone else thought it, researched it, wrote it—give credit to that someone else. Plagiarism—intentional or unintentional—results in a zero for the essay (and no possibility of revision). If you are unclear about what constitutes plagiarism, Talk With Me and / or consult the WCC about specific instances you are not sure about. Do not ask your friend—ask an expert. The {{% resource_link "957bb3bd-d511-4af6-b16d-2a47da44563f" "WCC also has information about plagiarism" %}}, and {{% resource_link "5de5985f-a87d-4ddd-b968-7be8bd9f93b9" "MIT itself has good information" %}}. But you are encouraged to
+In Western culture, not giving credit is an insult as well as an act of dishonesty. In all academic writing, you must give citations each time you use 1) someone else's ideas, or 2) someone else's words. Although material on the web is free, you did not create it; someone else thought it, researched it, wrote it—give credit to that someone else. Plagiarism—intentional or unintentional—results in a zero for the essay (and no possibility of revision). If you are unclear about what constitutes plagiarism, Talk With Me and / or consult the WCC about specific instances you are not sure about. Do not ask your friend—ask an expert. The [WCC also has information about plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/), and [MIT itself has good information](http://integrity.mit.edu/). But you are encouraged to

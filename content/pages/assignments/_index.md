@@ -3,6 +3,8 @@ content_type: page
 description: 'This section provides hints from the instructor for writing effective
   essays and links to the three types of assignments: essays, framing, and persuasive
   speech.'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

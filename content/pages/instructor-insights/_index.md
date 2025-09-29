@@ -95,7 +95,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 ### Out of Class
 
 - Essay writing
-- Consultation with the {{% resource_link "f4895a03-0a45-4870-8e22-0bc25cb4f87e" "Writing and Communication Center" %}}
+- Consultation with the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/)
 - {{% resource_link 16cadfbc-58ff-0e59-c208-3527b7fd6e97 "Readings" %}}
 - Preparation for framing exercise
 - Preparation for persuasive speech

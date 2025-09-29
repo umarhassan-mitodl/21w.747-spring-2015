@@ -4,6 +4,8 @@ description: This resource contains the information regarding rhetoric tool ches
 file: /courses/21w-747-rhetoric-spring-2015/2c3905c420a795b39c1f3a4b09287e6e_MIT21W_747S15_rhetoric.pdf
 file_size: 657423
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

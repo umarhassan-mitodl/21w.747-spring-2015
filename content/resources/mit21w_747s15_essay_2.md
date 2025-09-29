@@ -5,6 +5,8 @@ description: This resource contains the information regarding rhetorical analysi
 file: /courses/21w-747-rhetoric-spring-2015/f19a7b7202bd81d5c6134ffb72109077_MIT21W_747S15_Essay_2.pdf
 file_size: 269728
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: workshop in section 2
 file: /courses/21w-747-rhetoric-spring-2015/614be067a14d1afe58e162e9994ffb37_edu_b-lecture-workshop.png
 file_size: 17636
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
