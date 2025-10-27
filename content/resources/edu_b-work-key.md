@@ -4,8 +4,6 @@ description: workshop key
 file: /courses/21w-747-rhetoric-spring-2015/520bd84786353f64ae74e2e650d8d823_edu_b-work-key.png
 file_size: 293
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

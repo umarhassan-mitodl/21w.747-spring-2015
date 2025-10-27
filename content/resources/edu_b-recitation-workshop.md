@@ -4,8 +4,6 @@ description: workshop in section 1
 file: /courses/21w-747-rhetoric-spring-2015/f51c9cee886db3e890c877a7c64bbd66_edu_b-recitation-workshop.png
 file_size: 17637
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
